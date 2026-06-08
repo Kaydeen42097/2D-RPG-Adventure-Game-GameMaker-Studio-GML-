@@ -2,7 +2,7 @@
 up_key = keyboard_check_pressed(ord("W"));
 down_key = keyboard_check_pressed(ord("S"));
 accept_key = keyboard_check_pressed(vk_enter) 
-key_x = keyboard_check_pressed(vk_escape) 
+key_x = keyboard_check_pressed(ord("x")) 
 
 //store number of options in current menu
 op_length = array_length(option[menu_level]);
