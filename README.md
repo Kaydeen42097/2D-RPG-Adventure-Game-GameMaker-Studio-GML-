@@ -1,77 +1,66 @@
-# 🎮 My GameMaker Project
+# rpg Adventure
 
-A 2D top-down movement game made in GameMaker Studio.
+A pixel-art RPG/adventure game created in GameMaker Studio using GML.
 
----
+## About
 
-## 🧠 About the Game
+This game was meant to be a rpg where a devil/spirit took control of your the people in your local town and you would have to fight the devils and recruit new characters to save the town we bit off way more than we could chew with this and only eneded up with this I still think the art style is realy cool and the menu navigations and animations were difficult it also has working buidlings and movement. 
 
-This is a simple prototype featuring:
-- Smooth WASD movement
-- Sprinting with Shift
-- Basic wall collision
-- Direction-based animations
-- Restart key for testing
+The project was built to learn GameMaker development, including movement systems, menus, inventories, room transitions, and RPG mechanics.
 
-The goal of this project was to learn movement systems, collisions, and basic game structure in GameMaker.
+## Features
+- 🌲 Explore multiple locations
+- 🎒 Inventory system
+- 📖 Log/Menu system
+- ❤️ Character stats
+- 🎨 Pixel-art visuals
+- most main features are not implemented
 
----
+## Controls
 
-## 🎮 Controls
+| Key | Action |
+|------|---------|
+| W A S D | Move |
+| Shift | Sprint |
+| Enter | Select/Menu Confirm |
+| Esc | Open Menu / Back |
+| R | Restart (Debug) |
+some times x or z are used in menus that was a old itteration and for some reason it still exists
 
-- **WASD** – Move/navigate menus
-- **Shift** – Sprint
-- **R** – Restart game
-- **Esc** – Exit menu
-- **z** – sometimes select
-- **x** – Exit menu/back
-- **m** – open menu
+## Locations
 
----
+Current locations include:
 
-## ⚙️ Features
+- Forest
+- Bakery
+- Hotel
+- movie theater
+  
 
-- Top-down 4-direction movement system
-- Collision with walls (`obj_wall`)
-- Sprint mechanic with speed change
-- Direction-based sprite system
-- Simple depth sorting using Y position
+Additional areas are planned for future updates.
 
----
+## Built With
 
-## 🛠️ Built With
+- GameMaker Studio
+- GameMaker Language (GML)
 
-- GameMaker Studio 2 / 2024
-- GML (GameMaker Language)
+## Development Goals
 
----
+Planned features include:
 
-## 📁 Project Structure
+- NPC interactions
+- Quests and objectives
+- Expanded inventory system
+- More locations
+- Improved UI
+- Story progression
+- Save/load improvements
 
-- `/objects` – game objects (player, walls, etc.)
-- `/sprites` – character and environment sprites
-- `/rooms` – level layouts
-- `/scripts` – movement and logic systems
+## Project Structure
 
----
-
-## 🚧 Status
-
-This project is currently in development and may be expanded with:
-- Better animations
-- Enemies or NPCs
-- Level design improvements
-- UI / menus
-
----
-
-## 👤 Author
-
-Made by: [Your Name]
-
----
-
-## 📌 Notes
-
-This repository contains the full GameMaker project files (.yyp format).  
-Open in GameMaker Studio to run or edit.
+```text
+objects/    - Game objects and logic
+sprites/    - Character and environment sprites
+rooms/      - Maps and locations
+scripts/    - Reusable GML code
+audio/      - Sound effects and music
