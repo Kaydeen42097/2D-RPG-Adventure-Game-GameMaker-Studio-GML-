@@ -1,0 +1,1 @@
+if !instance_exists(obj_textbox) {obj_sink.image_index = 0;}

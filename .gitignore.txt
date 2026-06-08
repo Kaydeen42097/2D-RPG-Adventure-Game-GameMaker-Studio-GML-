@@ -1,0 +1,16 @@
+# GameMaker temporary files
+.cache/
+.temp/
+build/
+output/
+
+# Logs
+*.log
+
+# GameMaker backups/exports
+*.yyz
+*.bak
+
+# OS junk
+.DS_Store
+Thumbs.db

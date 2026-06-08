@@ -1,0 +1,1 @@
+text_id = "closet_bedroom2"

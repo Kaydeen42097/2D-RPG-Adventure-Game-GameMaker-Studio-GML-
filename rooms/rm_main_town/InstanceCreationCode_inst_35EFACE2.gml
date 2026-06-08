@@ -1,0 +1,1 @@
+text_id = "moth npc 1"

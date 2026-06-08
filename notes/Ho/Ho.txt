@@ -1,0 +1,6 @@
+How to add item to the shop:
+
+1. Specifiy shop-specific description in obj_shop_menu's create event
+2. Add a case in obj_shop_menu's step event
+3. Add a case for the item which details what it does in scr_item_use
+4. Still in scr_item_use, specifiy what it changes (whether that be sp or hp)

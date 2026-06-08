@@ -1,0 +1,2 @@
+Unselected color = #5E1467 (dark purple)
+selected color = #FBBEDE (lavender pink)

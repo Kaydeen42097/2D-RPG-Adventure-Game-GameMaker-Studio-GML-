@@ -1,0 +1,1 @@
+text_id = "crystal npc 1"

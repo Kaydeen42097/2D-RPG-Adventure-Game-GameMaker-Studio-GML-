@@ -1,0 +1,59 @@
+
+
+I am starting this feature list so I can let you guys know what I most recently updated/changed
+
+pre v0.0.3 
+	- Character dialog w/ customizable stuff
+	- Working item system
+	- Menu system (unfinished)
+	- Don't feel like listing the rest
+
+v0.0.3 (last updated: 2/7/24)
+	- Made it so text effects can be applied just by adding (), [] or {} to the text  Dont worry it also deletes the   ,   , and the   .
+		*Note that effects cannot be stacked in this manner, and it does not support floaty effects (as of now)
+	- Started work on the "log" mechanic
+	- Added video player
+		*It is very limited, but the video that is playing can be easily changed with the "with" thingy
+	- Park has updated graphics
+	
+v0.0.4 (last updated: 2/22/24)
+	- Added a note detailing how to add items to the shop menu
+	- Cutscenes can now be made pretty easily, although they need some work (managed thru obj_cutscene)
+	
+v0.0.5 (last updated: 4/25/24)
+	- Changed the map
+	- Reduced camera size
+	- Kiwi
+
+
+
+Other:
+======================================================================================================
+
+----------------------------------------------------------------------------------------------------
+Additonal new stuff that's WIP:
+----------------------------------------------------------------------------------------------------
+Reworked the map, though not added to the game (just plans)
+
+
+----------------------------------------------------------------------------------------------------
+Known bugs:
+----------------------------------------------------------------------------------------------------
+>> (this section will be moved to a google doc soon maybe) <<
+
+- Player does not stop moving even when a vide/cutscene is playing
+- i forgor the rest
+
+
+----------------------------------------------------------------------------------------------------
+Stuff I need help with pls:
+----------------------------------------------------------------------------------------------------
+- The mini map I don't know where to start
+- Cutscenes need some work!
+
+
+----------------------------------------------------------------------------------------------------
+Additional notes:
+----------------------------------------------------------------------------------------------------
+- Ima make a google doc for script/story stuff and where we can keep track of finished sprites/art
+- I've been working with FL Studio a lot lately so maybe I can do some music for this but idk yet its hard :P

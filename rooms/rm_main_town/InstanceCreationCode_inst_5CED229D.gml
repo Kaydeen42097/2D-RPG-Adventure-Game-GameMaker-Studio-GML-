@@ -1,0 +1,1 @@
+text_id = "suit shrimp npc 1"
