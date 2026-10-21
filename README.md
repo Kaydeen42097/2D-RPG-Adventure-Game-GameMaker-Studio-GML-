@@ -1,4 +1,4 @@
-# rpg Adventure
+# RPG-style adventure game
 
 A pixel-art RPG/adventure game created in GameMaker Studio using GML.
 
